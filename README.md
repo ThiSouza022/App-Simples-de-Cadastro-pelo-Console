@@ -1,12 +1,11 @@
-# App-Simples-de-Cadastro-pelo-Console
 
-##Aplicativo Console de Cadastro Simples
+#Aplicativo Console de Cadastro Simples
 
 
 Esse é primeiro trabalho prático que fiz na plataforma da DIO
 
 
-##Melhorias planejadas para serem feitas:
+#Melhorias planejadas para serem feitas:
 
 Colocar os métodos em outro arquivo, para deixar o Program.cs mais limpo
 Algumas inclementações:
