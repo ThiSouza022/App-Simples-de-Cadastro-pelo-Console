@@ -1,11 +1,12 @@
 
-#Aplicativo Console de Cadastro Simples
+## Aplicativo Console de Cadastro Simples
 
 
 Esse é primeiro trabalho prático que fiz na plataforma da DIO
+Ainda está em estágio inicial mas pretendo fazer algumas alterações para deixar mais inclementado futuramente.
 
 
-#Melhorias planejadas para serem feitas:
+### Possíveis melhorias futuras:
 
 Colocar os métodos em outro arquivo, para deixar o Program.cs mais limpo
 Algumas inclementações:
